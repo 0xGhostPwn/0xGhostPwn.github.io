@@ -3,14 +3,14 @@
 # ============================================================
 title: "GhostPwn0"
 description: "A cyber dark corner of the web — notes, experiments, and ideas."
-url: "https://ghostpwn0.github.io"
+url: "https://alabrawi619.github.io"
 baseurl: ""
 lang: en
 
 author:
   name: "GhostPwn0"
   email: ""
-  bio: "Developer & tinkerer. Building things at the edge of dark mode."
+  bio: "Cybersecurity, Cloud & Kubernetes enthusiast. CTF player for fun. I regularly fine-tune my problem-solving skills. Always on the lookout for opportunities to grow and innovate in this ever-evolving field"
   github: "GhostPwn0"
 
 # --- Build ---
