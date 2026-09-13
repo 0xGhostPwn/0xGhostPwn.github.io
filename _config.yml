@@ -1,16 +1,16 @@
 # ============================================================
 # Site settings — Cyber Dark
 # ============================================================
-title: "GhostPwn0"
+title: "0xGhostPwn"
 description: "A cyber dark corner of the web — notes, experiments, and ideas."
 url: "https://blog.alabrawi.com"
 baseurl: ""
 lang: en
 
 author:
-  name: "GhostPwn0"
+  name: "0xGhostPwn"
   email: ""
-  bio: "Cybersecurity, Cloud & Kubernetes enthusiast. CTF player for fun. I regularly fine-tune my problem-solving skills. Always on the lookout for opportunities to grow and innovate in this ever-evolving field"
+  bio: "Just an enthusiast."
   github: "GhostPwn0"
 
 # --- Build ---
